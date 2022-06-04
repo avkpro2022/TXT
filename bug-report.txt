@@ -1,1 +1,15 @@
-
+Short Discription: The search in the dream book on the main page.
+Project: http://www.ameno.ru/
+Application Component: Search in the dream book.
+VersionNumber: 000.1.
+Importance: S3-major.
+Priority: High.
+Status: New.
+Author: Fox Mulder.
+Assigned to": Danna Skaly.
+Step playback: 1. Open the main page of the site: http://www.ameno.ru /
+2) At the bottom of
+3) Enter a search word, for example "night".
+4)Click the "Find" button.
+Actual Result: The request failed validation.
+Expected result: The search was successful, the description of the requir.
