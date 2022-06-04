@@ -1,0 +1,5 @@
+First Name: Andrew,
+LastName: Kazlou,
+Age: 35 old years,
+Pet: I have got one pet (guinea pig),
+desired salary: 1000$+.
